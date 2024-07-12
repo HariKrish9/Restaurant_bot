@@ -75,7 +75,7 @@ bash![Screenshot from 2024-07-11 17-58-28](https://github.com/user-attachments/a
 ![Screenshot from 2024-07-08 10-55-52](https://github.com/user-attachments/assets/3b97c202-ab9d-4445-96fe-ba2d89c90950)
 
 
-    ros2 run restaurant_simulation Waiter_robot.py
+    ros2 run restaurant_bot Waiter_robot.py
 
 File Structure
 
